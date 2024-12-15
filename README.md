@@ -1,4 +1,4 @@
-# Banque Web Service - SOAD WSDL
+# Banque Web Services - SOAP WSDL
 
 ## 1 - Lancement de serveur
 ![Lancement de serveur](captures/1_server_run.png)
